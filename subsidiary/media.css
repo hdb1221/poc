@@ -1,0 +1,3476 @@
+@media (min-width: 1201px) {
+  .syone .wrap5 a.more:hover {
+    padding-top: 35px;
+    line-height: 2;
+    transition: all ease .5s;
+  }
+
+  .syone .wrap6 a.more:hover {
+    padding-top: 35px;
+    line-height: 2;
+    transition: all ease .5s;
+  }
+
+  .sytwo .syleft p a:hover {
+    transition: all ease .5s;
+
+    color: #fff;
+
+    background: #dd2226 url(../images/jt2.png) 300px center no-repeat;
+  }
+
+  .sythree .sytitle p a:hover {
+    border: 2px solid #dd2226;
+    color: #dd2226;
+    tansition: all ease .5s;
+  }
+
+  .lobnea a:hover {
+    width: 230px;
+    transition: all ease .5s;
+  }
+
+  .gbceun li:hover .con {
+    opacity: 1;
+    transition: all 0.5s;
+  }
+
+  .aeltbc li a:hover {
+    border-color: #03573f;
+  }
+
+  .aeltbc li a:hover .d1 {
+    color: #03573f;
+  }
+
+  .aeltbc li a:hover .d3 {
+    color: #fff;
+    background: #03573f;
+    border-color: #03573f;
+  }
+
+  .talent .con a:hover span {
+    font-size: 16px;
+    display: block;
+    line-height: 36px;
+    opacity: 1;
+    transition: all 0.5s
+  }
+
+  .dnaemb li:hover .tit {
+
+    background: url(../images/xz15h.jpg) no-repeat left center;
+    transition: all ease .5s;
+  }
+
+  .dnaemb li a:hover {
+    background: #03573f;
+    border: 1px solid #03573f;
+    color: #fff;
+    transition: all ease .5s;
+  }
+
+  .sonla dl dd a:hover {
+    color: rgba(255, 255, 255, 1);
+    transition: all 0.5s ease;
+  }
+
+  .news-list li a:hover {
+    transition: all ease .5s;
+    border-bottom: 1px solid #00533a;
+  }
+
+  .caetct a:hover {
+    padding: 0 40px;
+    transition: all 0.5s ease;
+
+  }
+
+  .solution li .con a:hover {
+    padding: 10px 50px;
+    transition: all ease .5s;
+  }
+
+  .eibaec li a:hover {
+    border: 1px solid #2178d9;
+    transition: all ease .5s;
+  }
+
+  .eibaec li a:hover .date2 {
+    color: #2178d9;
+    transition: all ease .5s;
+  }
+
+  .eibaec li a:hover .con .d1 {
+    color: #2178d9;
+    transition: all ease .5s;
+  }
+
+  .lboal a:hover {
+    color: #2178d9;
+    transition: all ease .5s;
+
+    font-size: 46px;
+
+  }
+
+  .alocc2 a:hover .con .d2 {
+    transition: all ease .5s;
+    width: 220px;
+  }
+
+  .abunec a:hover {
+    color: #2178d9;
+  }
+
+  .alocc a:hover {
+    color: #222;
+  }
+
+  .alocc a .con:hover .d1 {
+    color: #333;
+    transition: all ease .5s;
+  }
+
+  .alocc a .con:hover .d2 {
+    width: 210px;
+    transition: all ease .5s;
+  }
+
+  .sjbox a:hover .pic .one {
+    opacity: 0;
+    transition: all ease .5s;
+  }
+
+  .sjbox a:hover .con h3 {
+    color: #333;
+    transition: all ease .5s;
+  }
+
+  .sjbox a:hover .con .tb1 {
+    background: url(../testimg/tb1h.png) center center no-repeat;
+    transition: all ease .5s;
+  }
+
+  .sjbox a:hover .con .tb2 {
+    background: url(../testimg/tb2h.png) center center no-repeat;
+    transition: all ease .5s;
+  }
+
+  .sjbox a:hover .con .tb3 {
+    background: url(../testimg/tb3h.png) center center no-repeat;
+    transition: all ease .5s;
+  }
+
+  .sjbox a:hover .con .tb4 {
+    background: url(../testimg/tb4h.png) center center no-repeat;
+    transition: all ease .5s;
+  }
+
+  .sjbox a:hover .con span {
+    border: 1px solid #26499d;
+    background: #26499d;
+    transition: all ease .5s;
+  }
+
+  .lbonea li a:hover .img img,
+  .ybceva li a:hover .pic img {
+    transform: scale(1.05);
+    transition: all 0.5s;
+  }
+
+  .lobnea .list.on .con {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0px);
+    transition: all 0.5s ease 0.4s;
+  }
+
+  .lobnea .list.on .num {
+    color: #fff;
+    transition: all 0.5s;
+  }
+
+  .lobnea .list.on .tit {
+    color: #fff;
+    transition: all 0.5s;
+  }
+
+  .lobnea .list.on {
+    width: 79%;
+    transition: all 0.5s;
+  }
+
+  .lobnea .list.on:before {
+    opacity: 0;
+    transition: all 0.5s;
+  }
+
+  .cdst {
+    opacity: 0;
+    transform: translateY(-80px);
+    transition: all 0.5s ease;
+  }
+
+  .arenc {
+    opacity: 0;
+    transform: translateX(-80px);
+    transition: all 0.5s ease;
+  }
+
+  .active .cdst {
+    opacity: 1;
+    transform: translateX(0px);
+    transition: all 0.5s ease 0.3s;
+  }
+
+  .active .arenc {
+    opacity: 1;
+    transform: translateX(0px);
+    transition: all 0.5s ease 0.5s;
+  }
+
+  .active .olapc {
+    opacity: 1;
+    transform: translateX(0px);
+    transition: all 0.5s ease 0.3s;
+  }
+
+
+  .boprek a:hover {
+    background: #00533a url(../images/sy.png) 120px center no-repeat;
+    transition: all 0.5s ease;
+    color: #fff;
+    border: 2px solid #00533a;
+  }
+
+  .boprek2 a:hover {
+    background: #00533a url(../images/sy.png) 120px center no-repeat;
+    transition: all 0.5s ease;
+    color: #fff;
+    border: 2px solid #00533a;
+  }
+
+  .roslm a:hover div {
+    opacity: 1;
+    transition: all ease .5s;
+  }
+
+  .bleac a:hover {
+    transition: all ease .5s;
+  }
+
+  .bleac a:hover span {
+    background: #0055a6;
+    transition: all ease .5s;
+  }
+
+  .bleac2 a:hover {
+    transition: all ease .5s;
+  }
+
+  .bleac2 a:hover span {
+    background: #0055a6;
+    transition: all ease .5s;
+  }
+
+  .ny-banner h3 a:hover {
+    width: 23%;
+    transition: all ease .5s;
+  }
+
+  /*.olta li{ opacity:0; transform:translateY(80px); transition:all 0.5s ease;}*/
+  /*.active .olta li{ opacity:1; transform:translateY(0px); transition:all 0.5s ease 0.3s;}
+.olta li:nth-child(2){ transition-delay:0.6s;}
+.olta li:nth-child(3){ transition-delay:0.9s;}
+.olta li:nth-child(4){ transition-delay:1.2s;}
+.olta li:nth-child(5){ transition-delay:1.5s;}*/
+
+  .cs-list li {
+    opacity: 0;
+    transform: translateY(80px);
+    transition: all 0.5s ease;
+  }
+
+  .active .cs-list li {
+    opacity: 1;
+    transform: translateY(0px);
+    transition: all 0.5s ease 0.3s;
+  }
+
+  .cs-list li:nth-child(2) {
+    transition-delay: 0.6s;
+  }
+
+  .cs-list li:nth-child(3) {
+    transition-delay: 0.9s;
+  }
+
+  .cs-list li:nth-child(4) {
+    transition-delay: 1.2s;
+  }
+
+  .cs-list li:nth-child(5) {
+    transition-delay: 1.5s;
+  }
+
+  .pad-solc .title {
+    opacity: 0;
+    transform: translateY(-80px);
+    transition: all 0.5s ease;
+  }
+
+  .active .pad-solc .title {
+    opacity: 1;
+    transform: translateY(0px);
+    transition: all 0.5s ease 0.3s;
+  }
+
+  .cs-list li a:hover {
+    transform: translateY(-30px);
+    transition: all 0.5s ease;
+  }
+
+  .cs-list li a:hover .pic img {
+    transition: all 0.5s ease;
+    transform: scale(1.1);
+  }
+
+  .cs-list li a:hover .pic span {
+    visibility: visible;
+    opacity: 1;
+    transition: all 0.5s ease;
+  }
+
+  .cs-list li a:hover .tit,
+  .cs-list li a:hover .con {
+    height: 80px;
+    transition: all 0.5s ease;
+  }
+
+  .cs-list li a:hover .bq {
+    visibility: visible;
+    opacity: 1;
+    transition: all 0.5s ease;
+  }
+
+  .omfdl .p3 a:hover:after {
+    width: 100%;
+    transition: all 0.5s ease;
+  }
+
+  .active .omfdl .p1 {
+    opacity: 0;
+    transform: translateY(80px);
+    transition: all 0.5s ease;
+  }
+
+  .active .omfdl .p2 {
+    opacity: 0;
+    transform: translateY(80px);
+    transition: all 0.5s ease;
+  }
+
+  .active .omfdl .p3 {
+    opacity: 0;
+    transform: translateY(80px);
+    transition: all 0.5s ease;
+  }
+
+  .active .omfdl .p1 {
+    opacity: 1;
+    transform: translateY(0px);
+    transition: all 0.5s ease 0.3s;
+  }
+
+  .active .omfdl .p2 {
+    opacity: 1;
+    transform: translateY(0px);
+    transition: all 0.5s ease 0.6s;
+  }
+
+  .active .omfdl .p3 {
+    opacity: 1;
+    transform: translateY(0px);
+    transition: all 0.5s ease 0.9s;
+  }
+
+  .pad-solc a:hover {
+    width: 220px;
+    transition: all 0.5s ease;
+    background: #1f3a8b;
+    color: #fff;
+  }
+
+  .sc-neca {
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.6s ease;
+  }
+
+  .sc-neca.on {
+    opacity: 1;
+    visibility: visible;
+    transition: all 0.6s ease;
+  }
+
+  .loteca a:hover {
+    border-color: #00533a;
+  }
+
+  .honor-ul li:hover {
+    background: #00533a;
+    color: #fff;
+    transition: all 0.5s ease;
+  }
+
+  .ny-nav a:hover {
+    color: #fff;
+    background: #00533a;
+    transition: all 0.5s ease;
+  }
+
+  .ny-nav a.cur:after,
+  .ny-nav a:hover:after {
+    width: 100%;
+    transition: all 0.5s ease;
+  }
+
+  .leftnav a:hover {
+    color: #fff;
+    background: #00533a;
+    transition: all 0.5s ease;
+  }
+
+  .leftnav a.cur:after,
+  .leftnav a:hover:after {
+    width: 100%;
+    transition: all 0.5s ease;
+  }
+
+  .news-list li a:hover .pic img {
+    transform: scale(1.05);
+    transition: all 0.5s ease;
+  }
+
+  .news-list li a:hover {
+
+    transition: all 0.5s ease;
+  }
+
+  .news-list li a:hover .con .d1 {
+    color: #00533a;
+    transition: all 0.5s ease;
+  }
+
+  .news-list li a:hover .con span {
+    border: 2px solid #00533a;
+    transition: all 0.5s ease;
+    color: #00533a;
+    width: 22%;
+  }
+
+  .bmtea li a:hover .con {
+    color: #fff;
+    background: #00533a;
+    transition: all 0.5s ease;
+  }
+
+  .bmtea li a:hover .con .d2 {
+    color: #fff;
+  }
+
+  .bolate .list .d2 {
+    opacity: 0;
+    transform: translateY(40px);
+    transition: all 0.5s ease;
+  }
+
+  .bolate .list.on .d2 {
+    opacity: 1;
+    transform: translateY(0px);
+    transition: all 0.5s ease;
+  }
+
+  .T-nav li .secon {
+    display: block;
+    visibility: hidden;
+    opacity: 0;
+    transform: translateY(30px);
+    transition: all 0.5s ease;
+  }
+
+  .T-nav li .secon a:hover {
+    color: rgba(221, 34, 38, 1);
+    text-indent: 10px;
+    transition: all 0.5s ease;
+  }
+
+  .T-nav li:hover .secon {
+    visibility: visible;
+    opacity: 1;
+    transform: translateY(0px);
+    transition: all 0.5s ease;
+  }
+
+  .T-nav li>a.cur:after,
+  .T-nav li>a:hover:after {
+    width: 100%;
+    transition: all 0.5s ease;
+  }
+
+  .T-nav li>a.cur,
+  .T-nav li:hover>a {
+    color: #ddd;
+  }
+}
+
+
+
+
+@media (max-width: 1890px) {
+
+  a.arenc .p2 {
+    width: 65%;
+  }
+
+  .sjbox a {
+    width: 25%;
+  }
+
+  .sjbox a:nth-child(2) {
+    width: 33.4%;
+    z-index: 8;
+  }
+
+  .sjbox a:nth-child(3) {
+    width: 33.4%;
+    z-index: 7;
+  }
+
+  .sjbox a:nth-child(4) {
+    width: 33.3%;
+    z-index: 6;
+  }
+}
+
+@media (max-width: 1790px) {
+  .sjbox a {
+    width: 25.5%;
+  }
+
+  .sjbox a:nth-child(2) {
+    width: 34.1%;
+    z-index: 8;
+  }
+
+  .sjbox a:nth-child(3) {
+    width: 34.1%;
+    z-index: 7;
+  }
+
+  .sjbox a:nth-child(4) {
+    width: 34.1%;
+    z-index: 6;
+  }
+
+
+}
+
+@media (max-width: 1680px) {}
+
+@media (max-width: 1620px) {
+  .roale {
+    width: 20%;
+  }
+
+  a.arenc .p2 {
+    width: 60%;
+  }
+
+  .sjbox a {
+    width: 26.05%;
+  }
+
+  .sjbox a:nth-child(2) {
+    width: 34.8%;
+    z-index: 8;
+  }
+
+  .sjbox a:nth-child(3) {
+    width: 34.8%;
+    z-index: 7;
+  }
+
+  .sjbox a:nth-child(4) {
+    width: 34.7%;
+    z-index: 6;
+  }
+}
+
+@media (max-width: 1570px) {
+  .roale {
+    width: 20%;
+  }
+
+  .ny-banner h2 {
+    transform: translateY(-50%);
+    left: 5%;
+  }
+
+  .wrap2 {
+    width: 94%;
+
+  }
+
+  a.arenc {
+
+    margin-bottom: 2%;
+    margin-left: 0%;
+  }
+
+}
+
+@media (max-width: 1520px) {
+  .roale {
+    width: 20%;
+  }
+
+  .sjbox a {
+    width: 26.5%;
+  }
+
+  .sjbox a:nth-child(2) {
+    width: 35.4%;
+    z-index: 8;
+  }
+
+  .sjbox a:nth-child(3) {
+    width: 35.4%;
+    z-index: 7;
+  }
+
+  .sjbox a:nth-child(4) {
+    width: 35.3%;
+    z-index: 6;
+  }
+}
+
+@media (max-width: 1466px) {
+  .roale {
+    width: 21%;
+  }
+
+  .ny-banner {
+    height: 537px;
+
+  }
+
+  .ab-03 {
+
+    background-size: 68%;
+  }
+
+  .ab-01 .pic {
+    width: 57%;
+
+  }
+
+  .dblogo {
+
+    padding: 20px 3%;
+  }
+
+  .foot {
+
+    padding: 30px 3%;
+  }
+
+  .top {
+
+    padding: 0% 3%;
+
+  }
+
+  .omfdl {
+    width: 500px;
+    height: 500px;
+    padding: 5% 0 0 0;
+  }
+
+  .omfdl .qq {
+    margin: -250px 0 0 -250px;
+  }
+
+  .pad-solc {
+
+    margin-bottom: 1%;
+
+  }
+
+  a.arenc .p2 {
+    margin-top: 10px;
+    line-height: 26px;
+
+    font-size: 16px;
+    width: 56%;
+
+  }
+
+  .main {
+    width: 100%;
+    padding: 0px 3%;
+  }
+
+}
+
+@media (max-width: 1410px) {
+  .T-nav li a {
+
+    padding: 0 15px;
+
+  }
+}
+
+@media (max-width: 1375px) {
+
+  .talent .con a {
+    width: 24%;
+
+  }
+
+  .nolema li a .date {
+
+    width: 9%;
+  }
+
+  .talent h2 {
+    width: 60%;
+    font-size: 24px;
+    line-height: 3;
+    background: url(../testimg/t62.jpg) right top no-repeat;
+  }
+
+  .syone {
+    padding-top: 5%;
+    width: 100%;
+    background: url(../images/01.jpg) center 15% no-repeat;
+    background-size: contain;
+  }
+
+  .syone .syprolist a {
+    width: 340px;
+    height: 326px;
+    border-radius: 10px;
+  }
+
+  .sytwo .syleft {
+    width: 57%;
+  }
+
+  .sytwo .sypic {
+    width: 42%;
+  }
+
+  .sytwo .syleft p a {
+
+    width: 48.5%;
+
+    height: 100px;
+    font-size: 22px;
+
+    line-height: 100px;
+    background: #f4f4f4 url(../images/jt2.png) 285px center no-repeat;
+  }
+
+  .nybg2 {
+
+    padding: 3% 0 5% 0;
+  }
+
+  .sythree .synews a:nth-child(1) {
+    width: 49.5%;
+    height: 450px;
+  }
+
+  .sythree .synews a:nth-child(2) {
+    width: 24.5%;
+    height: 450px;
+
+  }
+
+  .sythree .synews a:nth-child(3) {
+    width: 24.5%;
+    height: 450px;
+
+  }
+
+  .sytwo .syleft p {
+    width: 98%;
+  }
+
+  .sytwo .syleft h3 {
+    font-size: 40px;
+    color: #333;
+    margin-bottom: 90px;
+  }
+
+  /*.sjbox a{width: 27.5%;}
+.sjbox a:nth-child(2){width: 36.8%;z-index:8;}
+.sjbox a:nth-child(3){width: 36.8%;z-index:7;}
+.sjbox a:nth-child(4){  width:36.7%; z-index:6;}*/
+  .ny-banner h4 a {
+
+    width: 25%;
+    font-size: 14px;
+    margin-top: 1%;
+
+  }
+
+  .lobnea .list .tit {
+
+    font-size: 26px;
+
+  }
+
+  .ny-banner {
+    height: 460px;
+
+  }
+
+  .ny-banner h2 {
+    font-size: 30px;
+
+  }
+
+  .ny-banner h4 {
+
+    font-size: 26px;
+
+    width: 90%;
+  }
+
+  .ny-banner h4 span {
+    margin-top: 1%;
+  }
+
+  .geplb .d1 {
+    font-size: 26px;
+
+  }
+
+  .wrap {
+    max-width: 1200px;
+    margin: 0% auto;
+  }
+
+  .yam img {
+
+    height: 34px;
+  }
+
+  /*.mceubna{ padding:0 3%;}*/
+  .mceubna .cont .d0 {
+    font-size: 22px;
+
+  }
+
+  .mceubna .cont .d1 {
+    font-size: 18px;
+
+  }
+
+  a.arenc img {
+    width: 120px;
+    height: 100px;
+  }
+}
+
+@media (max-width: 1280px) {
+  .main {
+    width: 100%;
+    padding: 0px 0%;
+  }
+}
+
+@media (max-width: 1210px) {
+
+  /*Ipad12.9 英寸*/
+  .ny-banner {
+    overflow: inherit;
+  }
+
+  .ny-nav a {
+    border-radius: 0;
+  }
+
+  .ny-nav .flex {
+    display: inherit;
+    flex-wrap: inherit;
+  }
+
+  .ny-nav p.flex {
+    display: none;
+    flex-wrap: inherit;
+  }
+
+  .ny-nav {
+    background: #fff;
+    border-bottom: 1px solid #ddd;
+    margin-top: 0;
+    border-top-right-radius: 0px;
+    border-top-left-radius: 0px;
+  }
+
+  .ny-nav p {
+    display: none;
+  }
+
+  .ny-nav span {
+    display: block;
+    border-bottom: 0px solid #ddd;
+    line-height: 50px;
+    background: url(../images/a1.png) no-repeat right center;
+    text-align: left;
+    font-size: 16px;
+    margin: 0 1%;
+  }
+
+  .ny-nav p a {
+    display: block;
+    border: none;
+    width: 100%;
+    text-align: center;
+    background: #f5f5f5;
+    padding: 0;
+    font-size: 15px;
+    line-height: 42px;
+  }
+
+  .ny-nav p {
+    padding: 0;
+    position: absolute;
+    background: #f0f2f5;
+    width: 100%;
+    z-index: 9;
+    left: 0;
+  }
+
+  .geplb .d1 {
+    font-size: 20px;
+
+  }
+
+  .geplb .d1 span {
+
+    margin-top: -10px;
+
+  }
+
+  .mceubna .cont {
+    width: 100%;
+  }
+
+  .search {
+    padding: 0px 0px 0 0;
+  }
+
+  .search p {
+
+    right: 0;
+
+    top: 40px;
+
+  }
+
+  .top {
+    border: none;
+  }
+
+  .T-nav {
+    display: none;
+    border-radius: 0;
+    position: fixed;
+    margin: 0;
+    top: 50px;
+    left: 0;
+    height: calc(100% - 50px);
+    overflow: auto;
+    margin: 0;
+    width: 100%;
+    background: #fff;
+  }
+
+  .T-nav li {
+    display: block;
+    width: 100%;
+    border-bottom: 1px solid #eee;
+  }
+
+  .T-nav li a {
+    width: 100%;
+    text-align: center;
+    padding: 0 2%;
+    line-height: 45px;
+    height: 45px;
+    font-size: 16px;
+    color: #000;
+  }
+
+  .T-nav li>a.cur {
+    background: none;
+    border: none;
+    color: #666;
+  }
+
+  .T-nav li .gdlt {
+    position: relative;
+    width: 100%;
+    left: 0;
+    margin-left: 0;
+    top: 0;
+    padding: 0;
+    display: none;
+  }
+
+  .T-nav li .gdlt a {
+    padding: 0 5%;
+    height: 35px;
+    line-height: 35px;
+    margin: 0;
+    font-size: 14px;
+    background: none;
+    color: #666;
+    width: 100%;
+    background: #f9f9f9;
+    border: none;
+    line-height: 40px;
+  }
+
+  .mob-nav {
+    display: block;
+    width: 50px;
+    height: 50px;
+    position: relative;
+    float: right;
+  }
+
+  .wrap {
+    max-width: 768px;
+    padding: 0 3%;
+  }
+
+  .top-locls {
+    position: fixed;
+    top: 0;
+    background: rgba(0, 0, 0, 0.6);
+    padding: 0 2% 0 0;
+  }
+
+  .section {
+    position: relative;
+  }
+
+  .benla {
+    display: none;
+  }
+
+  .bg-enc {
+    position: relative;
+    height: 100vh;
+  }
+
+  .os-posc {
+    position: relative;
+    height: auto;
+  }
+
+  .alocc {
+    position: absolute;
+    left: 5%;
+    width: 90%;
+    top: 50%;
+    transform: translateY(-50%);
+    padding: 0;
+  }
+
+  .alocc .p3 {
+    margin-top: 4%;
+  }
+
+  .alocc .p3 a,
+  .arenc .p4 a,
+  .omfdl .p3 a {
+    width: 150px;
+    line-height: 40px;
+  }
+
+  .bg-enc {
+    height: 400px;
+  }
+
+  .alocc .p1 {
+    font-size: 24px;
+  }
+
+  .alocc .p2 {
+    font-size: 14px;
+    margin-top: 10px;
+  }
+
+  .alocc .p3 {
+    margin-top: 16px;
+  }
+
+  .gdloc {
+    display: none;
+  }
+
+  .pad-solc {
+    position: relative;
+    left: 0;
+    top: 0;
+    height: auto;
+  }
+
+  .section-3 {
+    padding: 0% 0;
+  }
+
+  .pad-solc .title {
+    font-size: 20px;
+  }
+
+  .arenc {
+    width: 100%;
+    padding: 4%;
+    margin: 0;
+  }
+
+  .arenc .p2 {
+    height: auto;
+    margin-top: 10px;
+    font-size: 18px;
+  }
+
+  .arenc .p3 {
+    margin-top: 10px;
+    height: auto;
+  }
+
+  .arenc .p4 {
+    margin-top: 10px;
+  }
+
+  .sloac {
+    width: 100%;
+  }
+
+  .sloac a {
+    height: auto;
+    padding: 4%;
+  }
+
+  .amlo {
+    margin: 0;
+    transform: translateY(0);
+  }
+
+  .cdst .p2 {
+    margin-top: 10px;
+    font-size: 18px;
+  }
+
+  .section-5 {
+    padding: 8% 4%;
+    background: #e9f0f8 !important;
+  }
+
+  .omfdl .p1 {
+    font-size: 30px;
+  }
+
+  .omfdl .p2 {
+    margin-top: 12px;
+  }
+
+  .omfdl .p3 {
+    margin-top: 20px;
+  }
+
+  .foot {
+    padding: 4%;
+  }
+
+  .olspc {
+    border: none;
+    line-height: 2;
+    padding: 0;
+  }
+
+  .olspc span {
+    display: block;
+    width: 100%;
+  }
+
+  .top-locls .logo img {
+    height: 50px;
+  }
+
+  .menuc {
+    width: 50px;
+    height: 50px;
+  }
+
+  .menuc:before,
+  .menuc:after,
+  .menuc span {
+    left: 10px;
+  }
+
+  .pad-solc {
+    padding: 0 4%;
+  }
+
+  .tabce dl {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+  }
+
+  .sc-neca {
+    top: 50px;
+    height: calc(100vh - 50px);
+    overflow: auto;
+    opacity: 1;
+    visibility: visible;
+    display: none;
+  }
+
+  .tabce {
+    display: block;
+    padding: 0 2%;
+  }
+
+  .tabce dl {
+    width: 100%;
+    padding: 0 3%;
+  }
+
+  .tabce dl dt {
+    font-size: 16px;
+    margin: 0;
+    line-height: 50px;
+  }
+
+  .tabce dl dd {
+    line-height: 42px;
+    height: 42px;
+    display: none;
+  }
+
+  .tabce dl dd a {
+    display: block;
+  }
+
+  .ny-nav h3 {
+    display: none;
+  }
+
+  .blbrc {
+    font-size: 36px;
+  }
+
+  .bieao {
+    width: 100%;
+    padding: 0 3%;
+  }
+
+  .boprek {
+    height: auto;
+    padding: 4%;
+  }
+
+  .boprek .d2 {
+    font-size: 18px;
+    margin: 10px 0;
+  }
+
+  .lbtena {
+    width: 100%;
+  }
+
+  .boltep .list {
+    padding: 0 2%;
+  }
+
+  .boltep .list span {
+    width: 100%;
+    display: block;
+    text-align: left;
+  }
+
+  .boltep .list strong {
+    font-size: 30px;
+  }
+
+  .mbaeo {
+    transform: translateX(-50%);
+  }
+
+  .mbaeo {
+    padding: 4%;
+  }
+
+  .bobme .pic {
+    width: 100%;
+  }
+
+  .bobme .con {
+    width: 100%;
+    margin-top: 3%;
+  }
+
+  .mbaeo .d2,
+  .bobme .con .d1 {
+    font-size: 18px;
+  }
+
+  .bloea .list {
+    width: 100%;
+    min-height: 110px;
+  }
+
+  .virae {
+    display: none;
+  }
+
+  .baeolc {
+    font-size: 14px;
+  }
+
+  .btrec {
+    width: 100%;
+    padding: 4%;
+  }
+
+  .loteca a {
+    margin: 0 0 10px;
+    width: 48%;
+  }
+
+  .loteca a:nth-child(2n) {
+    float: right;
+  }
+
+  .btrec h5 {
+    font-size: 18px;
+  }
+
+  .news-list li a .date {
+    display: none;
+  }
+
+  .news-list li a .con {
+    width: calc(100% - 245px);
+  }
+
+  .bleac .d1 {
+    font-size: 20px;
+  }
+
+  .bleac .d2 {
+    font-size: 14px;
+  }
+
+  .olbab>img {
+    display: none;
+  }
+
+  .olbab .list {
+    width: 25%;
+    text-align: center;
+  }
+
+  .olbab .list img {
+    height: 50px;
+  }
+
+  .laeobt .pic {
+    width: 100%;
+    text-align: center;
+  }
+
+  .laeobt .pic img {
+    width: 100%;
+  }
+
+  .laeobt .con {
+    width: 100%;
+    padding: 4%;
+  }
+
+  .laeobt .con .d1 {
+    font-size: 18px;
+  }
+
+  .laeobt .con .d2 {
+    font-size: 14px;
+    margin-top: 15px;
+  }
+
+  .iteaol li {
+    width: 50%;
+    margin-bottom: 4%;
+  }
+
+  .bolate .list {
+    width: 100%;
+    margin: 0 0 5% 0;
+  }
+
+  .bolate .list .d1 {
+    font-size: 18px;
+  }
+
+  .bolate .list .d2 {
+    margin-top: 20px;
+  }
+
+  .bolate .list .d2 .s1 {
+    font-size: 20px;
+  }
+
+  .bolate .list .d2 .s2 {
+    font-size: 18px;
+  }
+
+  .bolate .list .d2 .s3 {}
+
+  .bolate .list .d2 .s4 {
+    margin-top: 10px;
+  }
+
+  .taeoc select {
+    width: 32%;
+    margin-right: 2%;
+    margin-bottom: 2%;
+  }
+
+  .taeoc select:nth-child(3) {
+    margin-right: 0;
+  }
+
+  .taeoc .c1 {
+    width: calc(100% - 55px);
+  }
+
+  #map {
+    height: 300px;
+    width: 100%;
+  }
+
+  .praelb {
+    height: 260px;
+  }
+
+  .realbt {
+    right: 0;
+    margin-right: 0;
+    width: 360px;
+  }
+
+  .bloar a {
+    font-size: 20px;
+  }
+
+  .lbhnea .pic {
+    width: 100%;
+  }
+
+  .lbhnea .pic img {
+    width: 100%;
+  }
+
+  .lbhnea .con {
+    width: 100%;
+    padding: 4%;
+  }
+
+  .lbhnea .con .d1,
+  .lrebua .d1,
+  .mlbaec .dlcl,
+  .olmtea,
+  .maetoc {
+    font-size: 20px;
+  }
+
+  .lrebua .d2 {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 1110px) {
+
+  /*Ipad12.9 英寸，也有可能有Ipad11 英寸的影子*/
+  .eolmgga {
+
+    padding: 0 0px;
+    line-height: 40px;
+    font-size: 14px;
+  }
+
+  .dnaemb li {
+    padding: 10px 0;
+
+    line-height: 40px;
+  }
+
+  .vovla {
+    font-size: 12px;
+    margin-top: 5%;
+  }
+
+  .otebn li {
+
+    width: 100%;
+
+  }
+
+  .bcenba .d2 {
+    width: 100%;
+    line-height: 26px;
+    font-size: 14px;
+  }
+
+  .adslm .d2 {
+    font-size: 13px;
+    line-height: 30px;
+
+  }
+
+  .bcenba .d2 img {
+    width: 10%;
+  }
+
+  .job-name-box {
+    padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+  }
+
+  .job-name-box .job-name {
+    font-size: 16px;
+    line-height: 2;
+  }
+
+  .job-name-box .f16 {
+    font-size: 12px;
+  }
+
+  .job-operate-btn {
+    width: 48%;
+    display: inline-grid;
+    height: 40px;
+    margin-bottom: 4%;
+
+    line-height: 40px;
+
+  }
+
+  .job-name-box .job-detail {
+    margin-bottom: 0;
+    margin-top: 5%;
+    line-height: 1.8;
+  }
+
+  .job-task-item .f18 {
+    font-size: 14px;
+  }
+
+  .job-task-item .f16 {
+    font-size: 14px;
+  }
+
+  .job-task {
+
+    width: 100%;
+  }
+
+  .alocc a .con h3 {
+    font-size: 16px;
+    font-weight: bold;
+
+  }
+
+  .alocc a .con h4 {
+    font-size: 16px;
+
+  }
+
+  .alocc a .con {
+
+    margin-top: 5%;
+  }
+
+  .alocc a .pic {
+    float: right;
+    width: 100%;
+    border-radius: 10px;
+  }
+
+  .alocc a .con {
+
+    width: 100%;
+  }
+
+  .vtoae .con h2 {
+    font-size: 16px;
+
+  }
+
+  .vtoae .con .d2 {
+    margin: 1% 0 2%;
+
+    line-height: 26px;
+    font-size: 13px;
+
+  }
+
+  .dalbn li span {
+    font-size: 26px;
+    font-family: syst;
+    color: #00533a;
+  }
+
+  .culture li .con {
+    float: left;
+    margin-top: 0%;
+    width: 48%;
+  }
+
+  .culture li .con h3 {
+    font-size: 14px;
+    font-weight: normal;
+    padding-left: 15px;
+    margin-top: 10%;
+    color: rgba(0, 83, 58, 1);
+  }
+
+  .leftnav {
+    position: inherit;
+
+
+    width: 94%;
+    margin: 3% auto 0;
+  }
+
+  .partner span {
+
+    width: 22%;
+  }
+
+  .ldoes p .c1 {
+    width: 89%;
+
+  }
+
+  .pltem li a .con {
+    line-height: 25px;
+    height: 50px;
+    overflow: hidden;
+    font-size: 12px;
+
+  }
+
+  .sjpic {
+    width: 100%;
+    margin-top: 5%;
+  }
+
+  .pltem li a {
+    display: block;
+    background: none;
+    padding: 10px 10px 0 10px;
+    border: 1px solid #ddd;
+    border-radius: 6px;
+  }
+
+  .leftnav a {
+    font-size: 12px;
+
+    display: inline-grid;
+    margin: 0 1% 1% 0;
+    line-height: 40px;
+
+    width: 32%;
+
+
+  }
+
+  .culture li .con h3 span {
+    font-size: 12px;
+    display: block;
+    margin-top: 0px;
+    color: #000;
+  }
+
+  .culture li .con h3 {
+    font-size: 14px;
+
+    padding-left: 15px;
+    margin-top: 12%;
+
+  }
+
+  .dalbn p {
+    display: block;
+    font-size: 14px;
+  }
+
+  .vtoae .con .d2 {
+    margin: 1% 0 2%;
+
+    line-height: 26px;
+    font-size: 14px;
+
+    color: #333;
+  }
+
+  .alocc a .con .d2 {
+    position: inherit;
+    margin-top: 3%;
+
+    width: 100%;
+    height: 40px;
+    line-height: 40px;
+  }
+
+  .laeto {
+    width: 100%;
+    height: 450px;
+    overflow: auto;
+    position: inherit;
+    background: #fff;
+    right: 0;
+    top: 0;
+    transform: inherit;
+    margin-bottom: 10px;
+  }
+
+  .alocc a .con .d1 {
+    font-size: 13px;
+    line-height: 25px;
+    margin-top: 4%;
+  }
+
+  /*.talent img{ width:30%;margin: 0 auto;}*/
+  .talent .con a {
+    width: 49%;
+
+    font-size: 14px;
+
+    padding: 2% 10px 0;
+  }
+
+  .shouhuo h2 {
+
+
+    font-size: 12px;
+    line-height: 18px;
+
+    width: 90%;
+
+  }
+
+  .win .img {
+    width: 100%;
+
+  }
+
+  .win img {
+    height: auto;
+
+  }
+
+  .win .abs .text {
+    padding: 15px;
+    line-height: 26px;
+
+  }
+
+  .win .abs {
+    top: inherit;
+    width: 100%;
+    min-height: auto;
+    bottom: -41px;
+  }
+
+  .process li {
+    width: 12.6%;
+  }
+
+  .process li .img img {
+    width: 75%;
+    margin-bottom: 15px;
+  }
+
+  .aeltbc li a {
+
+    padding: 5px;
+
+  }
+
+  .aeltbc li a .d1 {
+    font-size: 14px;
+    line-height: 36px;
+
+  }
+
+  .aeltbc li a .d2 {
+    margin-top: 5px;
+    font-size: 12px;
+
+  }
+
+  .process li .font18 {
+    font-size: 12px;
+  }
+
+  .win .abs .font26 {
+    font-size: 16px;
+  }
+
+  .talent .con a span {
+    font-size: 12px;
+
+    line-height: 18px;
+    opacity: 1;
+
+  }
+
+  .talent h2 {
+    width: 100%;
+    font-size: 13px;
+    line-height: 26px;
+
+    margin-top: 5%;
+  }
+
+  .dnaemb li .tit {
+    padding-left: 35px;
+    font-size: 14px;
+    width: 100%;
+
+    height: 40px;
+
+  }
+
+  .dnaemb li .con {
+    color: #888;
+    font-size: 13px;
+  }
+
+  .dnaemb li a {
+    width: 100px;
+
+
+    font-size: 12px;
+
+  }
+
+  .eolmgga span:nth-child(3) {
+    text-align: center;
+    width: 30%;
+    margin-right: 10px;
+  }
+
+  .nolema {
+    width: 94%;
+    margin: 0 3%;
+  }
+
+  .nolema li a .con {
+    width: 90%;
+  }
+
+  .nolema li a .con .d1 {
+    font-size: 16px;
+
+  }
+
+  .nolema li a {
+
+    padding: 10px;
+  }
+
+  .nolema li a .con .d2 {
+    font-size: 13px;
+
+    line-height: 25px;
+
+    height: 50px;
+    overflow: hidden;
+  }
+
+  .nolema li a .date {
+    display: none;
+  }
+
+  .index_case2 li {
+    width: 100%;
+
+  }
+
+  .index_case2 .con .t1 {
+    font-size: 16px;
+    font-weight: bold;
+  }
+
+  .index_case2 .con {
+
+    top: 0;
+
+  }
+
+  .index_case2 .con .t2 {
+    font-size: 12px;
+    display: block;
+  }
+
+  .index_case2 img {
+    height: auto;
+  }
+
+  .geplb .d3 {
+    width: 100%;
+    font-size: 14px;
+    line-height: 26px;
+    margin-top: 2%;
+    text-indent: 0;
+  }
+
+  .boprek2 {
+    margin-top: 5%;
+    margin-bottom: 5%;
+  }
+
+  .enbuna,
+  .banica {
+    width: 96%;
+    margin: 0 auto;
+  }
+
+  .syone .wrap6 a.more {
+    display: none;
+  }
+
+  .aemltc .pic img {
+    width: 35%;
+  }
+
+  .aemltc .con h1 {
+    font-size: 16px;
+
+  }
+
+  .aemltc .con h3 {
+    font-size: 14px;
+    line-height: 26px;
+
+    margin: 5px 0 0 0;
+  }
+
+  .aemltc .con a {
+
+
+
+    margin: 10px 0 0 0;
+  }
+
+  .syone .wrap5 a.more {
+
+    width: 70px;
+    height: 70px;
+
+    padding-top: 10px;
+
+  }
+
+  .ny-banner h2 {
+    transform: translateY(-50%);
+    left: 5%;
+  }
+
+  .ny-banner h2 span {
+
+    font-size: 18px;
+
+  }
+
+  .caetct {
+    width: 100%;
+    text-align: center;
+  }
+
+  .edit-con {
+    padding: 0 4% 2%;
+  }
+
+  .dasol .d2 img {
+    margin-right: 5px;
+    width: 5%;
+  }
+
+  .laebta {
+
+    margin-top: 20px;
+  }
+
+  .dasol .d2 {
+
+    font-size: 14px;
+    padding-bottom: 15px;
+    margin-top: 15px;
+  }
+
+  .caetct a {
+    line-height: 2.6;
+  }
+
+  .dblogo {
+    width: auto;
+    margin-bottom: 0;
+    padding: 15px 3% 15px 0;
+  }
+
+  .icona,
+  .search {
+    display: none;
+  }
+
+  .lsdoc .d3 p:nth-child(1) {
+    font-size: 13px;
+
+  }
+
+  .lsdoc .d3 p:nth-child(2) {
+    font-size: 16px;
+
+    line-height: 1.2;
+  }
+
+  .lsdoc .d3 p:nth-child(3),
+  .lsdoc .d3 p:nth-child(4) {
+    font-size: 13px;
+
+  }
+
+  .syone {
+    padding-top: 3%;
+  }
+
+  .syone .wrap5 {
+    padding: 0 3%;
+  }
+
+  .syone .syabout h2 {
+    font-size: 16px;
+    margin-bottom: 10px;
+  }
+
+  .syone .syabout h3 {
+    font-size: 16px;
+    color: #333;
+    margin-bottom: 10px;
+  }
+
+  .syone .syabout .con {
+    font-size: 14px;
+    line-height: 26px;
+    margin-bottom: 20px;
+  }
+
+  .syone .wrap5 .more {
+
+    width: 80px;
+    height: 80px;
+
+    padding-top: 20px;
+    line-height: 1.6;
+    font-size: 12px;
+  }
+
+  .syone .sypro {
+
+    margin-top: 30px;
+  }
+
+  .syone .sypro h2 {
+    font-size: 16px;
+
+    margin-bottom: 10px;
+  }
+
+  .syone .sypro h3 {
+    font-size: 16px;
+    margin-bottom: 0px;
+  }
+
+  .syone .wrap6 {
+
+    padding: 0 3%;
+
+  }
+
+  .syone .syprolist a span {
+    position: absolute;
+    color: #fff;
+    font-size: 14px;
+    z-index: 1;
+    bottom: 10px;
+    left: 10px;
+  }
+
+  .syone .syprolist a {
+    width: 33%;
+    height: auto;
+
+    border-radius: 10px;
+  }
+
+  .syone .wrap6 .more {
+    width: 80px;
+    height: 80px;
+
+    padding-top: 20px;
+    line-height: 1.6;
+    font-size: 12px;
+  }
+
+  .syone .syprolist {
+    width: 100%;
+    margin-top: 20px;
+  }
+
+  .sytwo {
+    padding: 3% 0;
+    width: 100%;
+  }
+
+  .sytwo .wrap5 {
+    padding: 0 3%;
+  }
+
+  .sytwo .syleft {
+    width: 100%;
+  }
+
+  .sythree .sytitle p a {
+
+    border-radius: 30px;
+    width: 90px;
+    height: 40px;
+
+
+    line-height: 40px;
+    font-size: 12px;
+
+
+  }
+
+  .sythree .sytitle {
+    align-items: center;
+  }
+
+  .sythree .sytitle h2 {
+    font-size: 18px;
+  }
+
+  .sythree .sytitle p {
+    width: 185px;
+  }
+
+  .sythree .synews a .con h2 {
+    width: 72%;
+  }
+
+  .sythree .synews a h2 {
+    font-size: 16px;
+    line-height: 26px;
+  }
+
+  .sythree .synews a .con p {
+
+    border-radius: 6px;
+    width: 60px;
+    height: 55px;
+    font-size: 16px;
+
+    padding-top: 2%;
+  }
+
+  .sythree .synews a .con2 {
+    width: 10%;
+    text-align: left;
+    margin-top: 30%;
+  }
+
+  .sythree .synews a:nth-child(1) {
+    width: 100%;
+    height: auto;
+  }
+
+  .sythree .synews a:nth-child(2) {
+    width: 100%;
+    height: auto;
+    background: #fff;
+  }
+
+  .sythree .synews a:nth-child(3) {
+    width: 100%;
+    height: auto;
+    background: #fff;
+  }
+
+  .sythree .synews a:nth-child(2) h2,
+  .sythree .synews a:nth-child(3) h2 {
+    margin-bottom: 2%;
+  }
+
+  .sythree .synews a:nth-child(2) p,
+  .sythree .synews a:nth-child(3) p {
+    line-height: 3;
+    font-size: 14px;
+  }
+
+  .sythree .synews a:nth-child(2) span,
+  .sythree .synews a:nth-child(3) span {
+    color: #666;
+    font-size: 14px;
+    font-weight: normal;
+    display: block;
+  }
+
+  .sythree .synews a {
+    margin-bottom: 10px;
+  }
+
+  .sytwo .sypic {
+    width: 60%;
+    margin: 3% auto;
+  }
+
+  .sytwo .syleft h2 {
+    font-size: 16px;
+
+    margin-bottom: 10px;
+  }
+
+  .sytwo .syleft h3 {
+    font-size: 16px;
+
+    margin-bottom: 20px;
+  }
+
+  .sytwo .syleft p a {
+
+    margin-bottom: 2%;
+    border-radius: 10px;
+    width: 48%;
+
+    height: 50px;
+    font-size: 14px;
+
+    padding: 0 0 0 10px;
+    line-height: 50px;
+    background: #f4f4f4 url(../images/jt1.png) 140px center no-repeat;
+  }
+
+  .dalbn3 li img {
+    margin-right: 0px;
+    width: 25%;
+    margin-bottom: 15px;
+  }
+
+  .dalbn3 li span {
+    font-size: 26px;
+
+  }
+
+  .dalbn3 p {
+    width: 100%;
+    font-size: 14px;
+    color: #999;
+  }
+
+  .search span {
+
+    height: 18px;
+    width: 18px;
+
+    background-size: contain;
+  }
+
+  .roale a img {
+    width: 19px;
+  }
+
+  .picta {
+    width: 100%
+  }
+
+  .talbo {
+    width: 100%;
+
+    padding: 0px;
+  }
+
+  .nest-olt {
+    width: 100%;
+    margin: 0 0 3% 0;
+  }
+
+  .tabce .con {
+    width: 100%;
+  }
+
+  .tabce .pic {
+
+    line-height: 130px;
+    width: 100%;
+    text-align: center;
+  }
+
+  .tabce .con p {
+    display: none;
+  }
+}
+
+
+
+@media (max-width: 970px) {
+
+  /*Ipad11 英寸*/
+  .sjbox {
+    background: #2178d9;
+    padding: 8% 0 3% 0;
+  }
+
+  .sjbox a .pic {
+    display: none;
+  }
+
+  .sjbox a {
+    display: block;
+    position: inherit;
+    width: 50%;
+  }
+
+  .sjbox a:nth-child(2) {
+    margin-left: 0;
+    z-index: 8;
+    width: 50%;
+  }
+
+  .sjbox a:nth-child(3) {
+    margin-left: 0;
+    z-index: 7;
+    width: 50%;
+  }
+
+  .sjbox a:nth-child(4) {
+    margin-left: 0;
+    z-index: 6;
+    width: 50%;
+  }
+
+  .sjbox a .con {
+    position: inherit;
+    margin-bottom: 8%;
+    transform: translate(0%, 0%);
+  }
+
+  .sjbox a .con .tb1,
+  .sjbox a .con .tb2,
+  .sjbox a .con .tb3,
+  .sjbox a .con .tb4 {
+    background-size: contain;
+    width: 30px;
+    height: 40px;
+    margin-bottom: 4%;
+
+  }
+
+  .sjbox a .con h3 {
+
+    font-size: 15px;
+    font-weight: normal;
+    margin-bottom: 10%;
+
+  }
+
+  .sjbox a .con span {
+    display: none;
+  }
+
+  .omfdl .p2 {
+    margin: 0;
+    text-align: center;
+  }
+
+  .omfdl {
+
+    border-radius: 10px;
+    width: 100%;
+
+
+    height: auto;
+
+    padding: 8% 0 0 0;
+  }
+
+  .omfdl .qq {
+    display: none;
+  }
+
+  .pad-solc .title {
+    font-size: 16px;
+  }
+
+  .pad-solc .title p {
+    font-size: 15px;
+  }
+
+  .olta2 {
+    width: 100%;
+    padding: 0 4%;
+  }
+
+  .olta2 li {
+    padding-left: 0;
+    width: 50%;
+
+    border-right: 0px solid #b1c5e0;
+    margin-bottom: 5%;
+  }
+
+  .olta2 li p {
+    width: 50%;
+    font-size: 12px;
+  }
+
+  .olta2 li span {
+    font-size: 24px;
+
+  }
+
+  .olta2 li img {
+    margin-top: 0;
+    width: 16%;
+  }
+
+  .bieao .con {
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 4%;
+  }
+
+  .bieao .con p:nth-child(3) {
+    display: none;
+  }
+
+  .boprek {
+    height: auto;
+    text-align: center;
+  }
+
+  .boprek a {
+    font-size: 15px;
+
+  }
+
+  a.arenc span {
+
+    margin-top: 0;
+
+    font-size: 15px;
+
+  }
+
+  a.arenc .p2 {
+    margin-top: 0;
+    line-height: 26px;
+    height: 52px;
+    overflow: hidden;
+
+    font-size: 15px;
+    width: 66%;
+    color: #333;
+    /* margin: 5% auto; */
+
+  }
+
+  a.arenc img {
+    width: 100px;
+    height: 70px;
+  }
+
+  .ovrea {
+    width: 100%;
+    display: none;
+  }
+
+  .botc {
+    width: 100%;
+    margin-top: 0%;
+  }
+
+  .bieao img {
+    width: 100%;
+  }
+
+  .bieao .con {
+    width: 100%;
+  }
+
+  .ab-01 {
+    padding: 5% 0;
+
+  }
+
+  .olta li p {
+    font-size: 12px;
+  }
+
+  #certify .swiper-slide {
+    width: 80%;
+
+    padding: 10px 0;
+
+  }
+
+  #certify .swiper-slide p {
+    font-size: 12px;
+  }
+
+  .lobnea {
+    width: 100%;
+
+  }
+
+  .lobnea .word {
+    font-size: 14px;
+    line-height: 26px;
+    margin: 3% 0;
+    width: 100%;
+  }
+
+  .lobnea .rel {
+    position: inherit;
+  }
+
+  .lobnea .list .img img {
+    display: none;
+  }
+
+  .lobnea .list:before {
+    display: none;
+  }
+
+  .lobnea .list .num {
+    display: none;
+  }
+
+  .lobnea .list .tit {
+    position: inherit;
+    z-index: 3;
+
+    font-size: 16px;
+
+
+    padding: 0 20px;
+
+
+  }
+
+  .lobnea .list .con {
+    font-size: 14px;
+    width: 100%;
+    padding: 0 20px;
+    position: inherit;
+
+    color: #000;
+    opacity: 1;
+    visibility: inherit;
+
+    transition: all 0.5s;
+  }
+
+  .lobnea .list {
+    height: 145px;
+    overflow: inherit;
+    width: 100%;
+
+  }
+
+  .lobnea .list .tit {
+
+    width: 100%;
+    font-size: 16px;
+
+  }
+
+  .swiper-2 .tit {
+    font-weight: bold;
+    font-size: 14px;
+  }
+
+  .annct p {
+    font-size: 14px;
+
+  }
+
+  .annct p span {
+
+    font-size: 15px;
+
+  }
+
+  .ny-banner h4 {
+    margin-top: 5%;
+
+
+    font-size: 17px;
+
+    width: 90%;
+  }
+
+  .ny-banner h4 a {
+    display: none;
+  }
+
+  .ny-banner h4 span {
+
+    font-size: 12px;
+    display: none;
+
+    line-height: 22px;
+    margin-top: 3%;
+
+  }
+
+  .anliword {
+    font-size: 16px;
+  }
+
+  .alocc li a p {
+    font-size: 13px;
+
+  }
+
+  .alocc li a p span {
+    display: none;
+    font-size: 12px;
+    line-height: 22px;
+
+    margin-top: 3%;
+  }
+
+  .alocc {
+    position: inherit;
+    left: 0%;
+    width: 100%;
+    transform: translateY(0%);
+    padding: 0;
+  }
+
+  .roslm a div {
+    opacity: 1;
+
+    line-height: 22px;
+
+    padding: 10% 5% 0 5%;
+
+  }
+
+  .roslm a {
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .roslm a div h3 {
+    margin-bottom: 0%;
+    font-size: 16px;
+  }
+
+  .roslm a div p {
+    margin-bottom: 0%;
+    font-size: 12px;
+    line-height: 26px;
+  }
+
+  .bleac a {
+    width: 100%;
+    padding-top: 0%;
+
+  }
+
+  .bleac a h3 {
+    font-size: 14px;
+    margin-bottom: 3%;
+  }
+
+  .bleac a p {
+    font-size: 13px;
+    margin-bottom: 0%;
+  }
+
+  .bleac a span {
+    padding: 8px 20px;
+
+    font-size: 12px;
+  }
+
+  .bleac2 a {
+    width: 100%;
+    padding-top: 0%;
+
+  }
+
+  .bleac2 a h3 {
+    font-size: 14px;
+    margin-bottom: 3%;
+  }
+
+  .bleac2 a p {
+    font-size: 13px;
+    margin-bottom: 0%;
+  }
+
+  .bleac2 a span {
+    padding: 8px 20px;
+
+    font-size: 12px;
+  }
+
+  .aemltc .con {
+    width: 65%;
+    font-size: 15px;
+    line-height: 26px;
+  }
+
+  .olta {
+    padding: 0;
+    display: none;
+  }
+
+  .olta li {
+    width: 100%;
+    margin-bottom: 9%;
+  }
+
+  .olta li span {
+    font-size: 22px;
+
+  }
+
+  .aemltc .pic {
+    width: 100%;
+  }
+
+  .aemltc .con {
+    width: 100%;
+  }
+
+  .dolsca .d5 {
+    width: 10%;
+  }
+
+  .dolsca .d5 {
+    padding-top: 10px;
+    text-align: center;
+  }
+
+  .dolsca span {
+    font-size: 15px;
+    height: 50px;
+    line-height: 50px;
+  }
+
+  .dolsca .d1 {
+    width: 30%;
+    text-indent: 10px;
+
+    font-size: 15px;
+  }
+
+  .lourew {
+    font-size: 13px;
+    line-height: 26px;
+  }
+
+  .dolsca .d2 {
+    width: 25% !important;
+  }
+
+  .dolsca .d3 {
+    width: 33% !important;
+  }
+
+  .dolsca .d4 {
+    display: none;
+  }
+
+  .geplb .d1 {
+    font-size: 14px;
+  }
+
+  .geplb .d1 span {
+    font-size: 14px;
+  }
+
+  .hrzp li {
+    width: 33%;
+
+    font-size: 15px;
+  }
+
+  .hrzp li img {
+    width: 30%;
+  }
+
+  .wenhua,
+  .wenhua2 {
+    width: 100%;
+  }
+
+  .wenhua {
+    padding: 40px;
+    font-size: 16px;
+
+    line-height: 26px;
+  }
+
+  .input_bd01 {
+
+    height: auto;
+    margin: 0 0px 15px 0px;
+
+  }
+
+  .input_bd01 input {
+    width: 86%;
+  }
+
+  .input_btn02 input {
+
+    height: 42px;
+
+    font-size: 14px;
+
+  }
+
+  .input_bd input {
+    width: 60%;
+    height: 42px;
+  }
+
+  .flex_2 {
+    width: 100%;
+  }
+
+  .mceubna .cont .d0 {
+    font-size: 16px;
+
+  }
+
+  .mceubna .cont .d1 {
+    font-size: 16px;
+
+  }
+
+  .contact_bd .wrap {
+    padding: 0;
+  }
+
+  .contact_t1 {
+    font-size: 14px;
+    padding: 10px 0 10px 0;
+  }
+
+  .input_bd {
+    overflow: hidden;
+
+    height: 46px;
+    margin: 0 0px 10px 0px;
+
+  }
+
+  .input_bd01 textarea {
+    text-indent: 10px;
+  }
+
+  .input_bd01 span,
+  .input_bd span {
+    display: none;
+  }
+
+  .mceubna .cont .d2 {
+    line-height: 30px;
+    font-size: 15px;
+    padding-left: 0px;
+  }
+
+  .mceubna .cont .d2 span {
+    display: none;
+  }
+
+  .mceubna .cont .d3 {
+    display: none;
+  }
+
+  .foot .lsdoc {
+    margin-bottom: 0px;
+    width: 100%;
+  }
+
+  .foot .lsdoc .d1 {
+    margin: 15px 0 15px 0;
+    text-align: center;
+  }
+
+  .lsdoc .d2 {
+    margin: 0 auto 5%;
+    width: 150px;
+  }
+
+  .aepte a {
+    font-size: 14px;
+  }
+
+  .lsdoc .d3 {
+    font-size: 14px;
+    line-height: 26px;
+    text-align: left;
+  }
+
+  .foot .sonla {
+    width: 100%;
+    margin-bottom: 0px;
+  }
+
+  .sonla dl {
+    width: 21%;
+    text-align: left;
+  }
+
+  .sonla dl dt {
+    font-size: 14px;
+    line-height: 30px;
+
+    padding-bottom: 4px;
+
+    margin-bottom: 0;
+
+  }
+
+  .olspc {
+    border: none;
+    margin-top: 0;
+    line-height: 26px;
+    font-size: 12px;
+    text-align: center;
+    padding: 0 3%;
+  }
+
+  .olspc img {
+    display: none;
+  }
+
+  .sonla dl dd {
+    line-height: 24px;
+  }
+
+  .sonla dl dd a {
+    font-size: 13px;
+  }
+
+  .foot .lsdoc .d1 img {
+    width: 40%;
+    text-align: center;
+  }
+
+  .foot .jc {
+    justify-content: flex-start;
+  }
+
+  .logo {
+    margin: 12px 0px 13px 0px;
+  }
+
+  .logo img {
+    height: 25px;
+  }
+
+  .ny-nav p a {
+    display: block;
+    border: none;
+    width: 100%;
+    text-align: center;
+    padding: 0;
+    font-size: 15px;
+    line-height: 42px;
+  }
+
+  .ny-nav p {
+    display: none;
+  }
+
+  .ny-nav span {
+    display: block;
+    border-bottom: 0px solid #ddd;
+    line-height: 50px;
+    background: url(../images/gc2.png) no-repeat right center;
+    text-align: left;
+    font-size: 16px;
+  }
+
+  .ny-nav .d2 {
+    display: none !important
+  }
+}
+
+@media (max-width: 920px) {
+  /*可能这个也有Ipad11 英寸的影子*/
+
+}
+
+@media (max-width: 780px) {
+  .omfdl .p2 img {
+    margin-right: 10px;
+    margin-bottom: 20px;
+    width: 15%;
+  }
+
+  .omfdl .p1,
+  .alocc .p1 {
+    font-size: 16px;
+  }
+
+  .bg-enc {
+    height: 300px;
+  }
+
+  .blbrc {
+    font-size: 20px;
+  }
+
+  .ny-banner {
+    height: inherit;
+    padding-top: 0px;
+  }
+
+  .ny-banner h2 {
+
+    font-size: 16px;
+
+  }
+
+  .obrelc {
+    background-size: inherit;
+    height: inherit;
+    position: inherit;
+
+    width: 100%;
+  }
+
+  .ab-01 h3,
+  .ltrea h3 {
+    font-size: 18px;
+  }
+
+  .ab-01 h3:after {
+    content: '';
+    height: 2px;
+    width: 20px;
+    position: absolute;
+    bottom: -5px;
+    left: 50%;
+    margin-left: -10px;
+    background: #2178d9;
+  }
+
+  .ab-02 {
+    padding: 0;
+  }
+
+  .mbaeo {
+    position: relative;
+    left: 0;
+    transform: translateX(0);
+    width: 100%;
+  }
+
+  .bobme {
+    padding: 4% 0 8%;
+  }
+
+  .lbtena .d2 {
+    margin-top: 30px;
+  }
+
+  .mbaeo .d2 {
+    margin: 10px 0;
+  }
+
+  .olbmc {
+    font-size: 18px;
+  }
+
+  .bloea .list .d1 {
+    font-size: 18px;
+  }
+
+  .bloea .list .d2 {
+    font-size: 14px;
+  }
+
+  .ac-02 li {
+    height: auto;
+    padding: 8% 2%;
+  }
+
+  .oplca .d2 {
+    font-size: 14px;
+  }
+
+  .honor-ul li {
+    width: 49%;
+  }
+
+  .honor-ul li:nth-child(3n) {
+    margin-right: 2%;
+  }
+
+  .honor-ul li:nth-child(2n) {
+    margin-right: 0;
+  }
+
+  .honor-ul li .honor-li-img {
+    height: 140px;
+  }
+
+  .honor-ul li .honor-li-img p img {
+    max-height: 120px;
+  }
+
+  .honor-ul li .honor-li-tit {
+    line-height: 25px;
+    height: 25px;
+    font-size: 14px;
+  }
+
+  .teaolk .pic {
+    width: 100%;
+    text-align: center;
+  }
+
+  .teaolk .con {
+    width: 100%;
+    margin-top: 4%;
+  }
+
+  .teaolk .con .d1 {
+    font-size: 20px;
+  }
+
+  .teaolk .con .d2 {
+    font-size: 14px;
+  }
+
+  .news-list li .wrap {
+    padding: 3%;
+  }
+
+  .search2 h3 {
+    display: none;
+  }
+
+  .search2 .con {
+    width: 100%;
+    text-align: right;
+    padding: 2%;
+  }
+
+  .search2 .con input[type="text"] {
+    background: #f5f5f5;
+    padding-left: 10px;
+    border: none;
+    line-height: 3;
+    width: 77%;
+  }
+
+  .dasol .d1 {
+    font-size: 16px;
+    font-weight: bold;
+    margin-top: 6%;
+  }
+
+  .laebta {
+    width: 100%;
+    margin-right: 0px;
+    border: 1px solid #eee;
+    background: #fff;
+  }
+
+  .lbtapc {
+    width: 100%;
+    margin-top: 3%;
+  }
+
+  .news-list li a .pic {
+    width: 125px;
+    height: auto;
+  }
+
+  .news-list li a .pic img {
+    height: 85px;
+  }
+
+  .news-list li a .con {
+    width: calc(100% - 140px);
+  }
+
+  .news-list li a .con .d2 {
+    margin-top: 5px;
+    height: 50px;
+    display: none;
+  }
+
+  .news-list li a .con span {
+    display: none;
+  }
+
+  .news-list li a .con .d1 {
+    font-size: 17px;
+    margin: 0px 0;
+  }
+
+  .news-list li a .con .d3 {
+    display: none;
+  }
+
+  .pagelc a.mob-none {
+    display: none;
+  }
+
+  .bleac .d1,
+  .lotec .d1,
+  .mmaek .d1,
+  .biteoa .tit {
+    font-size: 18px;
+  }
+
+  .lotec .d2,
+  .mmaek .d2 {
+    font-size: 14px;
+  }
+
+  .olbab .list img {
+    height: 50px;
+  }
+
+  .olbab .list .d2,
+  .oplbe td {
+    font-size: 14px;
+  }
+
+  .bmtea li {
+    width: 100%;
+    margin-right: 0;
+  }
+
+  .bmtea li a .pic img {
+    height: auto;
+  }
+
+  .iteaol li .pic span {
+    width: 80px;
+    height: 80px;
+  }
+
+  .iteaol li .tit {
+    font-size: 18px;
+    margin: 12px 0;
+  }
+
+  .iteaol li .con {
+    font-size: 14px;
+  }
+
+  .optela li {
+    width: 49%;
+  }
+
+  .optela li:nth-child(2n) {
+    margin-right: 0;
+  }
+
+  .lbemat .pic {
+    width: 100%;
+    text-align: center;
+  }
+
+  .lbemat .con {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  .lbemat .con .d1 {
+    font-size: 18px;
+  }
+
+  .lbemat .con .d2 {
+    font-size: 14px;
+    margin-top: 15px;
+  }
+
+  .betyc .d2 {
+    margin: 5% 0;
+    font-size: 18px;
+  }
+
+  .mbtael li {
+    width: 48%;
+    margin-bottom: 4%;
+    padding: 20px 12px;
+  }
+
+  .bbaten {
+    font-size: 14px;
+  }
+
+  .realbt {
+    position: relative;
+    top: 0;
+    width: 100%;
+  }
+
+  .praelb {
+    height: auto;
+    max-height: 240px;
+  }
+
+  .realbt h5 {
+    font-size: 16px;
+    line-height: 45px;
+  }
+
+  .lmbaet {
+    font-size: 14px;
+  }
+
+  .martel a {
+    width: 150px;
+    line-height: 40px;
+    font-size: 16px;
+    border-radius: 10px;
+  }
+
+  .oscat li {
+    width: 100%;
+  }
+
+  .bmlre .d1,
+  .maetoc {
+    font-size: 18px;
+  }
+
+  .bmlre .d2,
+  .bmlab {
+    font-size: 14px;
+  }
+
+  .lboael .con {
+    width: 100%;
+  }
+
+  .lboael .con .d1 {
+    font-size: 20px;
+  }
+
+  .lboael .con .d2 {
+    font-size: 14px;
+  }
+
+  .lboael .pic {
+    float: left;
+    margin-top: 15px;
+  }
+
+  .bloar a {
+    font-size: 18px;
+  }
+
+  .lbhnea .con .d2 {
+    margin: 15px 0;
+  }
+
+  .lntem .pic {
+    width: 100%;
+    text-align: center;
+  }
+
+  .lntem .con {
+    width: 100%;
+    font-size: 14px;
+  }
+
+  .plgmc li {
+    width: 49%;
+    margin-bottom: 2%;
+  }
+
+  .plgmc li:nth-child(2n) {
+    margin-right: 0;
+  }
+
+  .plgmc li .pic {
+    height: 150px;
+  }
+
+  .plgmc li .pic img {
+    max-height: 120px;
+  }
+
+  .plgmc li .tit {
+    font-size: 14px;
+    line-height: 45px;
+    height: 45px;
+  }
+
+  .mtebc p {
+    font-size: 18px;
+    line-height: 45px;
+  }
+
+  .mtebc p.on {
+    font-size: 22px;
+  }
+
+  .bltea {
+    min-height: 80px;
+  }
+
+  .bltea .d1 {
+    font-size: 20px;
+  }
+
+  .bltea .d2 {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 640px) {}
