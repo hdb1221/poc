@@ -278,7 +278,7 @@ body {}
 
 .T-nav li .secon a {
   display: block;
-  color: rgba(221, 34, 38, 0.8);
+  color: #333;/*rgba(221, 34, 38, 0.8);*/
   line-height: 40px;
   text-align: center;
   font-weight: normal;
